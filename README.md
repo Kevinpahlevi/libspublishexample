@@ -1,0 +1,2 @@
+# libspublishexample
+LIBS PUBLIS EXAMPLE
